@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c226a402-3849-4067-8382-f5cc4729ddbb" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/swoole/ide-helper" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1jZqatq0JOlrBRCAGVGjOyVkWNk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/swoole/logic/room" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="sshConsole" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ml\Desktop\shell\swoole_chat" />
+      <recent name="C:\Users\ml\Desktop\shell\swoole_chat\swoole\logic\room" />
+      <recent name="C:\Users\ml\Desktop\shell\swoole_chat\swoole\common" />
+      <recent name="C:\Users\ml\Desktop\shell\swoole_chat\common\func" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ml\Desktop\shell\swoole_chat\swoole\logic\room" />
+      <recent name="C:\Users\ml\Desktop\shell\swoole_chat\swoole\config" />
+      <recent name="C:\Users\ml\Desktop\shell\swoole_chat\public" />
+      <recent name="C:\Users\ml\Desktop\shell\swoole_chat\php" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c226a402-3849-4067-8382-f5cc4729ddbb" name="默认的" comment="" />
+      <created>1604022040428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604022040428</updated>
+      <workItem from="1604022045736" duration="1040000" />
+      <workItem from="1604902433496" duration="14752000" />
+      <workItem from="1604971982314" duration="30630000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="686" y="30" width="580" height="1050" key="#PHP" timestamp="1604911231750">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="686" y="30" width="580" height="1050" key="#PHP/0.30.1920.1050@0.30.1920.1050" timestamp="1604911231750" />
+    <state x="432" y="113" key="#SSH_配置" timestamp="1604991600057">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="432" y="113" key="#SSH_配置/0.30.1920.1050@0.30.1920.1050" timestamp="1604991600057" />
+    <state x="624" y="251" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1604982105745">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="624" y="251" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1604982105745" />
+    <state x="452" y="130" key="#部署" timestamp="1604991675129">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="452" y="130" key="#部署/0.30.1920.1050@0.30.1920.1050" timestamp="1604991675129" />
+    <state x="807" y="220" width="638" height="696" key="NewPhpClassDialog" timestamp="1604914436022">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="807" y="220" width="638" height="696" key="NewPhpClassDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1604914436022" />
+    <state x="757" y="456" key="NewPhpFileDialog" timestamp="1604904657023">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="757" y="456" key="NewPhpFileDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1604904657023" />
+    <state x="336" y="113" key="SettingsEditor" timestamp="1604998886847">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="336" y="113" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1604998886847" />
+    <state x="632" y="203" width="655" height="704" key="find.popup" timestamp="1604989259587">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="632" y="203" width="655" height="704" key="find.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1604989259587" />
+    <state x="757" y="121" key="ftp.server.browser" timestamp="1604991670304">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="757" y="121" key="ftp.server.browser/0.30.1920.1050@0.30.1920.1050" timestamp="1604991670304" />
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1604975303088">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="539" y="45" width="840" height="1034" key="search.everywhere.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1604975303088" />
+  </component>
+</project>

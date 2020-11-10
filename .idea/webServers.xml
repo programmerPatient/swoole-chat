@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d31437c3-cc0b-437a-b4ce-f3919e490bb4" name="maliweb.top" url="http://maliweb.top">
+        <fileTransfer rootFolder="/var/www/chat" accessType="SFTP" host="maliweb.top" port="22" sshConfigId="39ef780b-2b0d-45f2-9afe-55c6f676a890" sshConfig="root@maliweb.top:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
